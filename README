@@ -1,0 +1,4 @@
+SRMSWI ERP API
+
+
+Description: It is an api which fetches the contents from the evarsity model to you. Just enter username and password in index.php file and use this CURL based API for ERP. Can be used from fetching contents from the ERP website.
